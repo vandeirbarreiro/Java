@@ -1,6 +1,6 @@
 # The Algorithms - Java [![Build Status](https://travis-ci.org/TheAlgorithms/Python.svg)](https://travis-ci.org/TheAlgorithms/Python)
 
-### All algorithms implemented in Java (for education)
+### All algorithms implemented in Java (for educational purposes)
 
 These are for demonstration purposes only. There are many implementations of sorts in the Java standard library that are much better for performance reasons.
 
